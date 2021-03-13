@@ -16,9 +16,9 @@ public class StudentService {
         return List.of(
                 new Student(
                         1L,
-                        "Maria",
+                        "Di Maria",
                         "maria.jama@gmail.com",
-                        LocalDate.of(2000, Month.JANUARY, 5),
+                        LocalDate.of(2000, Month.JANUARY, 6),
                         21
                 )
         );
